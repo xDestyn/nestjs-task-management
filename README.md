@@ -6,7 +6,8 @@ Even considering the amount of superb libraries, helpers and tools that exist fo
 
 NestJS provides an out-of-the-box application architecture which allows developers and teams to create highly testable, scalable, loosely coupled and easily maintainable applications.
 
-Recently, the NestJS framework is gaining extreme popularity due to its incredible features;
+Recently, the NestJS framework is gaining extreme popularity due to its incredible features:
+
     Leverages TypeScript - strongly typed language which is a super-set of JavaScript
 
     Simple to use, easy to learn and easy to master
